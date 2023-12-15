@@ -9,7 +9,8 @@ This Google Colab notebook explores and clusters music data based on audio featu
 2. **Clustering:** Employing KMeans for clustering genres and visualizing them using t-SNE and PCA.
 3. **Song Recommendation:** Utilizing Spotify API to find and recommend similar songs.
 
-## Getting Started
+**Changing Data File Location**
+By default, the notebook assumes the music dataset is located in the music_data folder in your Google Drive. If your data is in a different location, update the file path accordingly whereever you have stored in your google drive
 
 ### Prerequisites
 Open the Google Colab notebook.
